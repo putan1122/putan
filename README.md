@@ -26,6 +26,8 @@
 
 - 📫 How to reach me **putan@seas.upenn.edu**
 
+- 🧠 Also technical projects - <a href="https://github.com/putan1122/portfolio/tree/main/Projects_public" target="_blank">Projects</a>
+
 - Well my resume provides a history of all the good stuff, like my qualifications, experience, and killer sense of humor. Okay, maybe not the last one, but it's worth a shot, right? You can find my resume at - <a href="https://drive.google.com/file/d/1SIrOeJTkKYqlUKCKrg9VkS9T3pMieyr1/view?usp=drive_link" target="_blank">Resume</a>
 
 
