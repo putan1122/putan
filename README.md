@@ -14,7 +14,7 @@
 <h1 align="center">Hi 👋, I'm Pu Tan</h1>
 <h3 align="center">A data wizard in making, with a wealth of experience as a Data Engineer and a formidable proficiency in Data Science, specializing in Machine Learning with a Master’s degree at UPenn</h3>
 <!-- <h3 align="center">Will graduate in May 2024</h3> -->
-<h4 align="center">🔍 Actively seeking a full-time Data Scientist position</h4>
+<h4 align="center">🔍 Actively seeking Data Scientist position</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhvani-k&label=Profile%20views&color=0e75b6&style=flat" alt="dhvani-k" /> </p>
